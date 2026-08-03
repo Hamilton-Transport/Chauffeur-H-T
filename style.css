@@ -1,55 +1,96 @@
-css
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #111;
-    color: white;
-    text-align: center;
+```css
+body{
+margin:0;
+font-family:Arial, sans-serif;
+background:#0b0b0b;
+color:white;
+text-align:center;
 }
 
-header {
-    padding: 80px 20px;
-    background: linear-gradient(#000, #333);
+
+header{
+
+padding:90px 20px;
+background:linear-gradient(#000,#222);
+
 }
 
-h1 {
-    color: #d4af37;
-    font-size: 40px;
+
+h1{
+
+font-size:45px;
+color:#d4af37;
+letter-spacing:2px;
+
 }
 
-h2 {
-    color: #d4af37;
+
+h2{
+
+color:#d4af37;
+
 }
 
-section {
-    padding: 40px 20px;
+
+section{
+
+padding:50px 20px;
+
 }
 
-.btn, button {
-    background: #d4af37;
-    color: black;
-    padding: 15px 25px;
-    border-radius: 30px;
-    border: none;
-    text-decoration: none;
-    font-weight: bold;
-    cursor: pointer;
+
+.btn,button{
+
+background:#d4af37;
+color:#000;
+padding:15px 30px;
+border-radius:30px;
+border:none;
+font-weight:bold;
+text-decoration:none;
+cursor:pointer;
+
 }
 
-input, textarea {
-    width: 80%;
-    padding: 12px;
-    margin: 8px;
-    border-radius: 5px;
+
+.services p{
+
+font-size:18px;
+
 }
 
-textarea {
-    height: 100px;
+
+form{
+
+max-width:500px;
+margin:auto;
+
 }
 
-footer {
-    background: #000;
-    padding: 20px;
-    color: #aaa;
+
+input,textarea{
+
+width:90%;
+padding:15px;
+margin:10px;
+border-radius:8px;
+border:none;
+
+}
+
+
+textarea{
+
+height:120px;
+
+}
+
+
+footer{
+
+background:#000;
+padding:20px;
+color:#aaa;
+
 }
 ```
