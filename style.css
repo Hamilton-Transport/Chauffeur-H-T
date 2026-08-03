@@ -15,7 +15,6 @@ background:linear-gradient(135deg,#000000,#252525);
 
 }
 
-
 header h2{
 
 color:#ffffff;
@@ -101,3 +100,7 @@ color:#aaa;
   text-shadow:0 2px 5px#000;
 }  
 ```
+header h1 {
+  color: #d4af37 !important;
+  text-shadow: 0 0 10px #000,0 0 20px #d4af37;
+{  
